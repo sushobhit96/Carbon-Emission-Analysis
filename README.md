@@ -1,4 +1,5 @@
 Carbon Emission Project SQL and PowerBI
+
 In this project, I have analyzed and visualized my dataset using SQL and PowerBi.
 I will use this dataset to discover some aspects: India's highest and lowest amount of carbon emission by Year,
 the country with the most significant and most downward emissions per capita in 2017 compared to the changes of emissions per capita
