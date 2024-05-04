@@ -12,7 +12,7 @@ a. Some highlighted features that I will use when I work with SQL:
 - CREATE TABLE, INSERT INTO, INNER JOIN, CREATE VIEW
 
 b. Some highlighted features that I will use when I work with PowerBI: 
-- Area chart, Pie chart, Multi-row card, Clustered column chart
+- column chart, Pie chart, Slicers, Clustered column chart, Maps, Heat Maps, Buttons,Donut Chart
  
 
 2. About the dataset: 
